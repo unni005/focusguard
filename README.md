@@ -2,98 +2,64 @@
 
 
 
-# [Project Name] 🎯
+# [എന്നാ നീ ഇപ്പോ പണിയണ്ട] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### TEAM lead Name: [UNNIKRISHNAN NAMBOOTHIRI EN]
 
-
-### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+["എന്നാ നീ ഇപ്പോ പണിയണ്ട"is a fun hardware project designed to do the exact opposite of a productivity system. It detects when a person is sitting and trying to work on their computer, then automatically turns off the system when they try to work. Using an ESP32, touch sensors, and an IR sensor, creates a humorous and frustrating experience where the harder you try to focus, the faster it stops you! ]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[There is nobody to stop you from working, eveyone force you to work.. where എന്നാ നീ ഇപ്പോ പണിയണ്ട force you not to work ]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[TURN OFF YOUR COMPUTER WHENEVER YOU TRY TO WORK]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- [Languages used: C/C++ (ESP32 Arduino code), Python]
+- [TOOLS: Arduino IDE, Python, Windows Command Prompt/Terminal]
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- [ESP32 DevKit V1, 2× TTP223 Touch Sensors, IR Proximity Sensor, USB Cable, Jumper Wires]
+- [ESP32 3.3V logic, Touch sensor digital output, IR sensor for hand/object detection, USB serial communication at 115200 baud]
+- [Arduino IDE, USB cable, Breadboard, Jumper wires]
 
 ### Implementation
 For Software:
-# Installation
-[commands]
 
 # Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+[PYTHON focusguard.py]
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+![Schematic](assets/schema.png)
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+![Components](assets/pict1.jpeg)
+*Touch sensor*
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+![Components](assets/pict3.jpeg)
+*IR SENSOR*
 
-![Final](Add photo of final product here)
-*Explain the final build*
+
+![Final](assets/pict2.jpeg)
+*IR,TOUCH SENSOR CONNECTED WITH ESP32 *
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+<video width="640" height="360" controls>
+  <source src="assets/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-# Additional Demos
-[Add any extra demo materials/links]
 
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
