@@ -54,10 +54,11 @@ For Hardware:
 
 ### Project Demo
 # Video
-<video width="640" height="360" controls>
-  <source src="assets/video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+
+https://github.com/user-attachments/assets/b836036c-fd22-4f4e-98e6-5902363e7910
+
+
 
 
 Made with ❤️ at TinkerHub Useless Projects 
